@@ -3,3 +3,4 @@ networkx
 colorlover
 pandas
 plotly
+notebook
